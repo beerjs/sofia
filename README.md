@@ -23,4 +23,5 @@ Submit a Pull Request, file an Issue, or edit the Wiki.
 ## Organizers
 
 * Minko Gechev ([GitHub](https://github.com/mgechev), [Twitter](https://twitter.com/mgechev))
+* Asen Bozhilov ([GitHub](https://github.com/abozhilov), [Twitter](https://twitter.com/abozhilov))
 
