@@ -1,4 +1,5 @@
 # BeerJS Sofia
+:qa!
 
 
 BeerJS SF is a gathering group for Sofia (and visitors!) to get together for activities revolving around two things, beer and JavaScript! Currently we organize events at [facebook](https://www.facebook.com/groups/292135280802776/), but we're experimenting here as well.
@@ -15,7 +16,7 @@ Submit a Pull Request, file an Issue, or edit the Wiki.
 
 ## Why GitHub?
 
-* GitHub is a more natural social network for a group of developers than Meetup.com.  
+* GitHub is a more natural social network for a group of developers than facebook.
 * Less spam
 * Because GitHub is free and awesome!
 
