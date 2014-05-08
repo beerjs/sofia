@@ -1,5 +1,4 @@
 # BeerJS Sofia
-:qa!
 
 
 BeerJS SF is a gathering group for Sofia (and visitors!) to get together for activities revolving around two things, beer and JavaScript! Currently we organize events at [facebook](https://www.facebook.com/groups/292135280802776/), but we're experimenting here as well.
