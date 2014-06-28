@@ -3,6 +3,12 @@
 
 BeerJS София, цели събирането на хора от София (и гости!) с цел обединението на две страхотни неща - бира и JavaScript! В момента събитията се организират във [facebook](https://www.facebook.com/groups/292135280802776/) страницата на [SofiaJS](http://sofiajs.org), но експериментираме с организацията им и тук, в GitHub.
 
+## Следваща среща
+
+Кога: **19ти юли, 2014, 20:00**
+Къде: **Халбите 1** [[карта](https://www.google.bg/maps/place/bulevard+%22Praga%22+18/@42.6883067,23.3121252,17z/data=!3m1!4b1!4m2!3m1!1s0x40aa8516afccc5e7:0x824c2e20af9b0704)]
+RSVP: **Ще бъде добре да потвърдите [тук](https://www.facebook.com/events/675240292541130/) защото трябва да направим резервация (в случай, че не сте част от SofiaJS групата във facebook, можете да се присъедините [тук](https://www.facebook.com/groups/292135280802776/))**
+
 ## Искаш да се присъединиш?
 
 Кликни на <img src="http://beerjs.github.io/sf/assets/watch.png" height="18"> бутона на това хранилище, за да получаваш известия за наближаващи срещи! Също така можеш да се присъединиш към [страницата на SofiaJS във facebook](https://www.facebook.com/groups/292135280802776/), в хвърляй по едно око на ['Meetup' label](https://github.com/beerjs/sofia/issues?labels=meetup&page=1&state=open).
