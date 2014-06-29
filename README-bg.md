@@ -7,7 +7,7 @@ BeerJS София, цели събирането на хора от София (
 
 Кога: **19ти юли, 2014, 20:00**
 
-Къде: **Халбите 1** [[карта](https://www.google.bg/maps/place/bulevard+%22Praga%22+18/@42.6883067,23.3121252,17z/data=!3m1!4b1!4m2!3m1!1s0x40aa8516afccc5e7:0x824c2e20af9b0704)]
+Къде: **Ale House** [[карта](https://www.google.bg/maps/place/ulitsa+%22Hristo+Belchev%22+42/@42.6899459,23.3204604,17z/data=!4m2!3m1!1s0x40aa851285521b53:0xa7a08151270c49f3)]
 
 RSVP: **Ще бъде добре да потвърдите [тук](https://www.facebook.com/events/675240292541130/) защото трябва да направим резервация (в случай, че не сте част от SofiaJS групата във facebook, можете да се присъедините [тук](https://www.facebook.com/groups/292135280802776/))**
 

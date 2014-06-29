@@ -7,7 +7,7 @@ BeerJS Sofia is a gathering group for Sofia (and visitors!) to get together for 
 
 When: **19th of July, 2014, 08:00pm**
 
-Where: **Halbite 1** [[map](https://www.google.bg/maps/place/bulevard+%22Praga%22+18/@42.6883067,23.3121252,17z/data=!3m1!4b1!4m2!3m1!1s0x40aa8516afccc5e7:0x824c2e20af9b0704)]
+Where: **Ale House** [[map](https://www.google.bg/maps/place/ulitsa+%22Hristo+Belchev%22+42/@42.6899459,23.3204604,17z/data=!4m2!3m1!1s0x40aa851285521b53:0xa7a08151270c49f3)]
 
 RSVP: **Confirm [here](https://www.facebook.com/events/675240292541130/)**
 
