@@ -7,7 +7,7 @@ BeerJS Sofia is a gathering group for Sofia (and visitors!) to get together for 
 
 When: **20th of September, 2014, 08:00pm**
 
-Where: **Beer pub** [[карта](https://www.google.bg/maps/place/ulitsa+%22Hristo+Belchev%22+42/@42.6899459,23.3204604,17z/data=!4m2!3m1!1s0x40aa851285521b53:0xa7a08151270c49f3)]
+Where: **Beer pub** [[map](https://www.google.bg/maps/place/ulitsa+%22Hristo+Belchev%22+42/@42.6899459,23.3204604,17z/data=!4m2!3m1!1s0x40aa851285521b53:0xa7a08151270c49f3)]
 
 RSVP: **Confirm [here](https://www.facebook.com/events/377514442396304/)**
 ## Want to join?
