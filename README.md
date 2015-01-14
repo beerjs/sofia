@@ -5,7 +5,7 @@ BeerJS Sofia is a gathering group for Sofia (and visitors!) to get together for 
 
 ## Next meetup
 
-When: **24th of January (Saturday), 2014, 7pm**
+When: **24th of January (Saturday), 2015, 7pm**
 
 Where: **Bar Dak** [[map](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Bar+Dak+ulitsa+%22Moskovska%22+3+1000+Sofia,+Bulgaria&aq=&sll=42.697416,23.326279&sspn=0.093738,0.181789&vpsrc=0&t=h&ie=UTF8&hq=&hnear=&z=16&iwloc=A&cid=1587885136735883624)]
 
