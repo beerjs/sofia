@@ -11,6 +11,10 @@ Where: **Bar Dak** [[map](https://maps.google.com/maps?f=q&source=s_q&hl=en&geoc
 
 RSVP: **[Here](https://www.facebook.com/events/779773942088779/), (you can join SofiaJS [here](https://www.facebook.com/groups/292135280802776/))**
 
+We will have free beer, by our sponsor [Dodona](http://www.dodona.info/).
+
+By the way, they are [looking for their rockstar Node.js developer](http://jobio.me/en/jobquest/153/).
+
 ## Want to join?
 
 Click the <img src="http://beerjs.github.io/sf/assets/watch.png" height="18"> button on this repo (star us too!) to get notified of upcoming meeting dates or date and location changes.  Also, join [SofiaJS' facebook page](https://www.facebook.com/groups/292135280802776/), and keep your eye on the ['Meetup' label](https://github.com/beerjs/sofia/issues?labels=meetup&page=1&state=open).

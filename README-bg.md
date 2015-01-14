@@ -10,6 +10,10 @@ BeerJS София, цели събирането на хора от София (
 
 RSVP: **Ще бъде добре да потвърдите [тук](https://www.facebook.com/events/779773942088779/) защото трябва да направим резервация (в случай, че не сте част от SofiaJS групата във facebook, можете да се присъедините [тук](https://www.facebook.com/groups/292135280802776/))**
 
+Ще имаме безплатна бира от нашия спонсор [Dodona](http://www.dodona.info/).
+
+Между другото, [те търсят своят rockstar Node.js developer](http://jobio.me/en/jobquest/153/).
+
 ## Искаш да се присъединиш?
 
 Кликни на <img src="http://beerjs.github.io/sf/assets/watch.png" height="18"> бутона на това хранилище, за да получаваш известия за наближаващи срещи! Също така можеш да се присъединиш към [страницата на SofiaJS във facebook](https://www.facebook.com/groups/292135280802776/), в хвърляй по едно око на ['Meetup' label](https://github.com/beerjs/sofia/issues?labels=meetup&page=1&state=open).
