@@ -2,18 +2,6 @@
 
 BeerJS София, цели събирането на хора от София (и гости!) с цел обединението на две страхотни неща - бира и JavaScript! В момента събитията се организират във [facebook](https://www.facebook.com/groups/292135280802776/) страницата на [SofiaJS](http://sofiajs.org), но експериментираме с организацията им и тук, в GitHub.
 
-## Следваща среща
-
-Кога: **24ти януари (събота), 2015, 19:00**
-
-Къде: **Bar Dak** [[карта](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Bar+Dak+ulitsa+%22Moskovska%22+3+1000+Sofia,+Bulgaria&aq=&sll=42.697416,23.326279&sspn=0.093738,0.181789&vpsrc=0&t=h&ie=UTF8&hq=&hnear=&z=16&iwloc=A&cid=1587885136735883624)]
-
-RSVP: **Ще бъде добре да потвърдите [тук](https://www.facebook.com/events/779773942088779/) защото трябва да направим резервация (в случай, че не сте част от SofiaJS групата във facebook, можете да се присъедините [тук](https://www.facebook.com/groups/292135280802776/))**
-
-Ще имаме безплатна бира от нашия спонсор [Dodona](http://www.dodona.info/).
-
-Между другото, [те търсят своят rockstar Node.js developer](http://jobio.me/en/jobquest/153/).
-
 ## Искаш да се присъединиш?
 
 Кликни на <img src="http://beerjs.github.io/sf/assets/watch.png" height="18"> бутона на това хранилище, за да получаваш известия за наближаващи срещи! Също така можеш да се присъединиш към [страницата на SofiaJS във facebook](https://www.facebook.com/groups/292135280802776/), в хвърляй по едно око на ['Meetup' label](https://github.com/beerjs/sofia/issues?labels=meetup&page=1&state=open).
