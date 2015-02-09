@@ -4,22 +4,20 @@ BeerJS София, цели събирането на хора от София (
 
 ## Следваща среща
 
-Кога: **24ти януари (събота), 2015, 19:00**
+Кога: **21ви февруари (събота), 2015, 19:00**
 
-Къде: **Bar Dak** [[карта](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Bar+Dak+ulitsa+%22Moskovska%22+3+1000+Sofia,+Bulgaria&aq=&sll=42.697416,23.326279&sspn=0.093738,0.181789&vpsrc=0&t=h&ie=UTF8&hq=&hnear=&z=16&iwloc=A&cid=1587885136735883624)]
+Къде: **365 BloodyMary** [[карта](https://www.google.bg/maps/place/ul.+%22Hristo+Belchev%22+8-%D0%90,+1000+Sofia/)]
 
-RSVP: **Ще бъде добре да потвърдите [тук](https://www.facebook.com/events/779773942088779/) защото трябва да направим резервация (в случай, че не сте част от SofiaJS групата във facebook, можете да се присъедините [тук](https://www.facebook.com/groups/292135280802776/))**
+RSVP: **Ще бъде добре да потвърдите [тук](https://www.facebook.com/events/914970778543770/) защото трябва да направим резервация (в случай, че не сте част от SofiaJS групата във facebook, можете да се присъедините [тук](https://www.facebook.com/groups/292135280802776/))**
 
-Ще имаме безплатна бира от нашия спонсор [Dodona](http://www.dodona.info/).
-
-Между другото, [те търсят своят rockstar Node.js developer](http://jobio.me/en/jobquest/153/).
+Ще имаме welcome drinks подсигурени от [Obecto](http://www.obecto.com/)!
 
 ## Искаш да се присъединиш?
 
 Кликни на <img src="http://beerjs.github.io/sf/assets/watch.png" height="18"> бутона на това хранилище, за да получаваш известия за наближаващи срещи! Също така можеш да се присъединиш към [страницата на SofiaJS във facebook](https://www.facebook.com/groups/292135280802776/), в хвърляй по едно око на ['Meetup' label](https://github.com/beerjs/sofia/issues?labels=meetup&page=1&state=open).
 
 
-## Защо GitHub? 
+## Защо GitHub?
 
 * GitHub е по-естествена социална мрежа за група от програмисти, отколкото facebook.
 * По-малко спам.
