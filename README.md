@@ -11,7 +11,7 @@ Where: **365 BloodyMary** [[map](https://www.google.bg/maps/place/ul.+%22Hristo+
 
 RSVP: **You can confirm your participation [here](https://www.facebook.com/events/914970778543770/) and join the facebook group [here](https://www.facebook.com/groups/292135280802776/))**
 
-Ще имаме welcome drinks подсигурени от [Obecto](http://www.obecto.com/)!
+We will have welcome drinks by [Obecto](http://www.obecto.com/) and [ICN](https://www.icn.bg/)!
 
 
 ## Want to join?

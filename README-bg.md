@@ -10,7 +10,7 @@ BeerJS София, цели събирането на хора от София (
 
 RSVP: **Ще бъде добре да потвърдите [тук](https://www.facebook.com/events/914970778543770/) защото трябва да направим резервация (в случай, че не сте част от SofiaJS групата във facebook, можете да се присъедините [тук](https://www.facebook.com/groups/292135280802776/))**
 
-Ще имаме welcome drinks подсигурени от [Obecto](http://www.obecto.com/)!
+Ще имаме welcome drinks подсигурени от [Obecto](http://www.obecto.com/) и [ICN](https://www.icn.bg/)!
 
 ## Искаш да се присъединиш?
 
