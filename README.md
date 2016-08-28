@@ -1,7 +1,10 @@
 # BeerJS Sofia
 
-
 BeerJS Sofia is a gathering group for Sofia (and visitors!) to get together for activities revolving around two things, beer and JavaScript! Currently we organize events at [facebook](https://www.facebook.com/groups/292135280802776/), but we're experimenting here as well.
+
+## Next event?
+
+You can follow [our issue tracker](https://github.com/beerjs/sofia/issues).
 
 ## Want to join?
 
@@ -21,3 +24,4 @@ Submit a Pull Request, file an Issue, or edit the Wiki.
 
 * Minko Gechev ([GitHub](https://github.com/mgechev), [Twitter](https://twitter.com/mgechev))
 * Asen Bozhilov ([GitHub](https://github.com/abozhilov), [Twitter](https://twitter.com/abozhilov))
+
